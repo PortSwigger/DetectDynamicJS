@@ -1,0 +1,10 @@
+Uuid: 4a657674ebe3410b92280613aa512304
+ExtensionType: 2
+Name: Detect Dynamic JS
+ScreenVersion: 0.8
+SerialVersion: 5
+MinPlatformVersion: 0
+ProOnly: true
+Author: Veit Hailperin
+ShortDescription: Passively checks for differing content in JavaScript files and aids in finding user/session data.
+EntryPoint: DetectDynamicJS.py
