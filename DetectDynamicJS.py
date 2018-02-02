@@ -30,7 +30,7 @@ try:
 except ImportError:
     print "Failed to load dependencies. This issue maybe caused by using an unstable Jython version."
 
-VERSION = '0.8'
+VERSION = '0.9'
 VERSIONNAME = 'Honey Bunny'
 
 
