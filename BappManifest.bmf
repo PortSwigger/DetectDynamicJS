@@ -3,7 +3,7 @@ ExtensionType: 2
 Name: Detect Dynamic JS
 RepoName: detect-dynamic-js
 ScreenVersion: 0.9
-SerialVersion: 6
+SerialVersion: 7
 MinPlatformVersion: 0
 ProOnly: true
 Author: Veit Hailperin
