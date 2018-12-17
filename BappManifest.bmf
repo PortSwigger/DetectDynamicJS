@@ -2,8 +2,8 @@ Uuid: 4a657674ebe3410b92280613aa512304
 ExtensionType: 2
 Name: Detect Dynamic JS
 RepoName: detect-dynamic-js
-ScreenVersion: 0.9
-SerialVersion: 7
+ScreenVersion: 0.10
+SerialVersion: 8
 MinPlatformVersion: 0
 ProOnly: true
 Author: Veit Hailperin
